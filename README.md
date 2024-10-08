@@ -11,4 +11,4 @@ https://www.hackingwithswift.com/100/swiftui
 **Status**
 | Name                              | Days Completed | Days Left | Goal     |      
 | :---:                             | :----:         | :---:     | :---:    |
-| 100 Days of SwiftUI (HackingWithSwift) | 0              | -1       | 101 Days |
+| 100 Days of SwiftUI (HackingWithSwift) | -1              | 101       | 100 Days |
