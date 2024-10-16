@@ -11,7 +11,7 @@ https://www.hackingwithswift.com/100/swiftui
 **Status**
 | Name                              | Days Completed | Days Left | Goal     |      
 | :---:                             | :----:         | :---:     | :---:    |
-| 100 Days of SwiftUI (HackingWithSwift) | 3              | 97       | 100 Days |
+| 100 Days of SwiftUI (HackingWithSwift) | 4              | 96       | 100 Days |
 
 **Challenge**
 | Day | Topic                              | Completed | Preview                |      
@@ -20,3 +20,4 @@ https://www.hackingwithswift.com/100/swiftui
 | 1   | Variables, constants, strings, and numbers | ✅       | Preview not available. |
 | 2   | Booleans, string interpolation, and checkpoint 1 | ✅       | Preview not available. |
 | 3   | Arrays, dictionaries, sets, and enums | ✅       | Preview not available. |
+| 4   | Type annotations and checkpoint 2 | ✅       | Preview not available. |
